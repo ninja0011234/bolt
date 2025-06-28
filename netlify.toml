@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [build]
   command = "npm run build"
   publish = "build/client"
