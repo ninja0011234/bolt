@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-[build]
-  command = "npm run build"
-  publish = "build/client"
-
-[[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/server"
-  status = 200
